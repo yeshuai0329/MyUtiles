@@ -1,0 +1,6 @@
+{
+  // vscode eslint自我修复
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
